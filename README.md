@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oi dev 😎👍
+
+  - Estou em constante estudo das linguagens: C, Javascript e Python.
+  - Desenvolvo Html e Css tbm 😐
 
 <div>
 <a href="https://github.com/gabristle">
