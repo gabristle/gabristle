@@ -1,7 +1,6 @@
 ### Oi dev 😎👍
 
-  - Estou em constante estudo das linguagens: C, Javascript e Python.
-  - Desenvolvo Html e Css tbm 😐
+  - Desenvolvo projetos em HTML, CSS, Javascript e C.
 
 <div>
 <a href="https://github.com/gabristle">
