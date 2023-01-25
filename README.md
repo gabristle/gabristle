@@ -1,4 +1,7 @@
-### Oi dev 😎👍
+### Olá dev!
+Seja bem vindo ao meu perfil! Sou Gabriella Costa, estudante de Análise e Desenvolvimento de Sistemas na UTFPR.
+Aqui estão alguns dos meus projetos, sinta-se à vontade para analisar, criticar e apreciar.
+Obrigada pela atenção.
 
   - Desenvolvo projetos em HTML, CSS, Javascript e C.
 
