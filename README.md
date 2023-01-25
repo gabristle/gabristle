@@ -1,10 +1,12 @@
-### Olá dev!
+## Olá dev!
 Seja bem vindo ao meu perfil! Sou Gabriella Costa, estudante de Análise e Desenvolvimento de Sistemas na UTFPR.
 Aqui estão alguns dos meus projetos, sinta-se à vontade para analisar, criticar e apreciar.
 Obrigada pela atenção.
 
-  ## Habilidades que estou desenvolvendo
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ ### Habilidades que estou desenvolvendo
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+          
 
 <!--
 **gabristle/gabristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
