@@ -3,7 +3,8 @@ Seja bem vindo ao meu perfil! Sou Gabriella Costa, estudante de Análise e Desen
 Aqui estão alguns dos meus projetos, sinta-se à vontade para analisar, criticar e apreciar.
 Obrigada pela atenção.
 
-  - Desenvolvo projetos em HTML, CSS, Javascript e C.
+  ## Habilidades que estou desenvolvendo
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <!--
 **gabristle/gabristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
