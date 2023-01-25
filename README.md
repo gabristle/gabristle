@@ -2,11 +2,6 @@
 
   - Desenvolvo projetos em HTML, CSS, Javascript e C.
 
-<div>
-<a href="https://github.com/gabristle">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabristle&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=gabristle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <!--
 **gabristle/gabristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
