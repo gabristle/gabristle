@@ -12,6 +12,8 @@ Obrigada pela atenção.
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 ### Design / Ilustração
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabristle">
 <!--
 **gabristle/gabristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
