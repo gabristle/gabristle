@@ -2,7 +2,7 @@
 ### Sobre mim
 Seja bem vindo ao meu perfil!</br>
 Sou Gabriella Costa, estudante de Análise e Desenvolvimento de Sistemas na UTFPR.</br>
-Aqui estão alguns dos meus projetos, sinta-se à vontade para analisar, criticar e apreciar.</br>
+Aqui estão alguns dos meus projetos, sinta-se à vontade para analisá-los.</br>
 Obrigada pela atenção.
 
  ### Habilidades que estou desenvolvendo
