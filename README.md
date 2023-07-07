@@ -1,30 +1,14 @@
-## Olá dev!
-### Sobre mim
-Seja bem vindo ao meu perfil!</br>
-Sou Gabriella Costa, estudante de Análise e Desenvolvimento de Sistemas na UTFPR.</br>
-Aqui estão alguns dos meus projetos, sinta-se à vontade para analisá-los.</br>
-Obrigada pela atenção.
+<div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
 
- ### Habilidades que estou desenvolvendo
-#### Linguagens
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-#### Softwares
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-#### Design / Ilustração
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabristle&theme=highcontrast">
-<!--
-**gabristle/gabristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1>Hello Dev!</h1>
+Welcome to my profile!</br>
+I'm Gabriella Costa, student of System Development and Analysis at the Technological Federal University of Paraná.</br>
+<h2>Stats</h2><br>
+<img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=gabristle&theme=transparent&text_color=bcccfc&title_color=5474fc&hide_border=true" alt="Gabriella Costa's github stats">
+<img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabristle&theme=transparent&title_color=5474fc&text_color=bcccfc&layout=compact&hide_border=true" alt="Gabriella Costa's github top langs"><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabristle&bg_color=0d1117&color=5474fc&line=5474fc&point=bcccfc&area=true&hide_border=true">
+<h2>Skills</h2><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,mysql,sass,git&perline=10">
+</div>
