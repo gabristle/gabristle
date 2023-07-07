@@ -1,4 +1,4 @@
-<div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
+<div align="center"><img src=https://64.media.tumblr.com/tumblr_lw5mn40aq01qip80b.gif></div>
 
 
 <div align="center">
