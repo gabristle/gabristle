@@ -10,5 +10,5 @@ I'm Gabriella Costa, student of System Development and Analysis at the Technolog
 <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabristle&theme=transparent&title_color=5474fc&text_color=bcccfc&layout=compact&hide_border=true" alt="Gabriella Costa's github top langs"><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabristle&bg_color=0d1117&color=5474fc&line=5474fc&point=bcccfc&area=true&hide_border=true">
 <h2>Skills</h2><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,java,mysql,sass,git,react,nextjs,tailwind,node,fastify&perline=15">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,mysql,sass,git,react,nextjs,tailwind,nodejs,typescript&perline=15">
 </div>
